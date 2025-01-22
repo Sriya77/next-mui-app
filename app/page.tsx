@@ -1,5 +1,5 @@
 'use client';
-import { Container, Box ,Typography } from "@mui/material";
+import { Container, Box  } from "@mui/material";
 import Navbar  from "./components/main-menu";
 import ShoeCards from "./components/cardComponent"
 import { CssBaseline } from '@mui/material';

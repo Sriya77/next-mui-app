@@ -26,14 +26,38 @@ const shoes: Shoe[] = [
     id: 3,
     name: "Puma RS-X",
     price: "$89.99",
-    image: "https://images.unsplash.com/photo-1608231387042-66d1773070a5?w=500&q=80"
+    image: "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=500&q=80"    
   },
   {
     id: 4,
     name: "New Balance 574",
     price: "$79.99",
+    image: "https://images.unsplash.com/photo-1608231387042-66d1773070a5?w=500&q=80"
+  },
+  {
+    id: 5,
+    name: "Adidas Ultraboost",
+    price: "$159.99",
+    image: "https://images.unsplash.com/photo-1608231387042-66d1773070a5?w=500&q=80"
+  },
+  {
+    id: 6,
+    name: "Nike Air Max",
+    price: "$129.99",
     image: "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=500&q=80"
-  }
+  },
+  {
+    id: 7,
+    name: "Adidas Ultraboost",
+    price: "$159.99",
+    image: "https://images.unsplash.com/photo-1608231387042-66d1773070a5?w=500&q=80"
+  },
+  {
+    id: 8,
+    name: "Nike Air Max",
+    price: "$129.99",
+    image: "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=500&q=80"
+  },
 ];
 
 interface ShoeCardsProps {
